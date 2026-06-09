@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Arthur Fresse</h1>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Automation+Enthusiast;AI+%26+IoT+Builder;Always+Optimizing+Everything)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Graduate+Engineering;Automation+Enthusiast;AI+%26+IoT+Builder;Always+Optimizing+Everything)
 
 </div>
 
