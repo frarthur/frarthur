@@ -1,75 +1,184 @@
 <div align="center">
-<h1>Arthur Fresse</h1>
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Graduate+Engineering;Automation+Enthusiast;AI+%26+IoT+Builder;Always+Optimizing+Everything)
+
+# Arthur Fresse
+
+### Software Engineer • Full Stack • AI • Automation • IoT
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Software+that+Automates+Everything;Full+Stack+Developer;AI+%26+IoT+Builder;Always+Optimizing)](https://git.io/typing-svg)
+
+> Building software that removes repetitive work through automation, AI and embedded systems.
 
 </div>
 
-```sh-session
-Welcome to Github Profil {{VER}} (Automation Kernel 3.0.0-arthur x86_64)
+---
 
- * Documentation: https://github.com/frarthur
- * Management:    https://
- * Support:       https://
+# 👋 About Me
 
- System information as of {{DAY}} {{MM}}  {{DD}} {{HH}}:{{MM}}:{{SS}} CEST {{YEAR}}
+I'm a French **Software Engineer** passionate about designing software that automates repetitive work.
 
-  System load:  26.8                 Processes:             372
-  Usage of /:   0.7% of 1006.85GB   Users logged in:       0
-  Memory usage: 3%                  IPv4 address for eth0: 172.25.222.214
-  Swap usage:   0%
+My interests span across:
 
- * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
-   just raised the bar for easy, resilient and secure K8s cluster deployment.
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- 📡 Embedded Systems
+- ⚙️ Automation
+- ☁️ Cloud & DevOps
 
-0 packages can be updated.
-0 updates are security updated.
+Whether it's a web application, an AI agent, an ESP32 or a Raspberry Pi, I always ask myself one question:
 
-frarthur@GITHUB:~$
-frarthur@GITHUB:~$ os
-Windows 11 / Ubuntu
-frarthur@GITHUB:~$ role
-General Engineer specialized in Industry 4.0 technologies
-frarthur@GITHUB:~$ philosophie
+> **Can this be automated?**
+
+---
+
+# 💻 Terminal
+
+```console
+arthur@github:~$ whoami
+Arthur Fresse
+
+arthur@github:~$ role
+Software Engineer
+
+arthur@github:~$ stack
+Python
+TypeScript
+JavaScript
+Next.js
+React
+Flutter
+Node.js
+Docker
+Linux
+
+arthur@github:~$ philosophy
 "If I do it twice, I automate it."
+
+arthur@github:~$ exit
+logout
 ```
 
 ---
 
-## About Me
+# 🚀 Featured Projects
 
-I'm a French engineering specialized in Industry 4.0 technologies, passionate about automation, embedded systems and artificial intelligence.
+## 🌍 TerraIDLE
 
-Most of my projects revolve around one idea:
+> Pixel-art strategy game inspired by auto-battlers.
 
-> Reduce repetitive work through code, automation and smart systems.
+**Stack**
 
-Whether it's a Python script, an ESP32, a Raspberry Pi or an AI agent, I'm always looking for ways to make systems more efficient.
+- TypeScript
+- Next.js
+- Pixel Art
 
-
-## Code Mindset
-
-```python
-while True:
-    task = identify_repetitive_task()
-    if task:
-        automate(task)
-    improve_everything()
-```
+➡️ _Add repository link_
 
 ---
 
-## GitHub Statistics
+## 💊 Hypocaps
+
+Engineering project focused on improving hypoglycemia treatment through innovative product design.
+
+**Highlights**
+
+- Medical Innovation
+- Product Engineering
+- Research
+- Industrial Design
+
+➡️ _Add repository or website_
+
+---
+
+## 🚫 NoAds
+
+A lightweight web application focused on improving the browsing experience.
+
+**Stack**
+
+- Next.js
+- TypeScript
+- Supabase
+
+➡️ _Add repository_
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+## Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+## Backend & Cloud
+
+- Node.js
+- REST APIs
+- Supabase
+- Docker
+- GitHub Actions
+
+## Embedded
+
+- ESP32
+- ESP8266
+- Raspberry Pi
+- Arduino
+- Home Assistant
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=frarthur&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br>
-  <img src="https://raw.githubusercontent.com/frarthur/frarthur/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frarthur/frarthur/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frarthur/frarthur/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frarthur/frarthur/pacman-output/galaga-contribution-graph.svg">
-</picture>
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=frarthur&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frarthur&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=frarthur&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/frarthur/frarthur/trophy-output/trophy.svg"/>
+
+</div>
+
+---
+
+# 👀 Visitor Count
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=frarthur&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### Build once. Automate forever.
+
+</div>
