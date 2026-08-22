@@ -161,7 +161,7 @@ A lightweight web application focused on improving the browsing experience.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/frarthur/frarthur/trophy-output/trophy.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=frarthur&theme=onedark&row=1"/>
 
 </div>
 
