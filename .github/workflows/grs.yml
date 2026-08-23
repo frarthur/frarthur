@@ -4,6 +4,10 @@ on:
   schedule: # run once a day
     - cron: "0 0 * * *"
 
+  push:
+    branches:
+      - main
+
   workflow_dispatch:
 
 jobs:
