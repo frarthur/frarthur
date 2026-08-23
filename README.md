@@ -155,6 +155,18 @@ A lightweight web application focused on improving the browsing experience.
 
 </div>
 
+<div align="center">
+
+<h3>🕹️ Arcade</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frarthur/frarthur/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frarthur/frarthur/pacman-output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/frarthur/frarthur/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+</div>
+
 ---
 
 # 🏆 Achievements
