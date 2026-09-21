@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
 I'm a French **Software Engineer** passionate about designing software that automates repetitive work.
 
@@ -30,16 +30,16 @@ Whether it's a web application, an AI agent, an ESP32 or a Raspberry Pi, I alway
 
 ---
 
-# 💻 Terminal
+## 💻 Terminal
 
 ```console
 arthur@github:~$ whoami
 Arthur Fresse
 
-arthur@github:~$ role
+arthur@github:~$ cat role.txt
 Software Engineer
 
-arthur@github:~$ stack
+arthur@github:~$ cat stack.txt
 Python
 TypeScript
 JavaScript
@@ -50,8 +50,8 @@ Node.js
 Docker
 Linux
 
-arthur@github:~$ philosophy
-"If I do it twice, I automate it."
+arthur@github:~$ echo "If I do it twice, I automate it."
+If I do it twice, I automate it.
 
 arthur@github:~$ exit
 logout
@@ -59,105 +59,77 @@ logout
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🌍 TerraIDLE
+### 💊 Hypocaps
 
-> Pixel-art strategy game inspired by auto-battlers.
+Neutral-tasting glucose solution for people with hypoglycemia — a website to present the project and collect user feedback through a dynamic survey.
 
-**Stack**
+**Stack:** Next.js · React · TypeScript · Supabase
 
-- TypeScript
-- Next.js
-- Pixel Art
+<img src="./assets/hypocaps.png" width="640" alt="Hypocaps website homepage"/>
 
-➡️ _Add repository link_
+🔗 [hypocaps.fr](https://hypocaps.fr) · [Source](https://github.com/frarthur/Hypocaps_web)
 
----
+### 📵 NoInsta
 
-## 💊 Hypocaps
+A lightweight Instagram wrapper focused on direct messages. No feed, no reels, just conversations.
 
-Engineering project focused on improving hypoglycemia treatment through innovative product design.
+**Stack:** Flutter · Dart
 
-**Highlights**
+<img src="https://raw.githubusercontent.com/frarthur/no-insta/main/screenshots/login.jpg" width="170" alt="Login"/> <img src="https://raw.githubusercontent.com/frarthur/no-insta/main/screenshots/chat.jpg" width="170" alt="Chat"/> <img src="https://raw.githubusercontent.com/frarthur/no-insta/main/screenshots/profile.jpg" width="170" alt="Profile"/>
 
-- Medical Innovation
-- Product Engineering
-- Research
-- Industrial Design
+🔗 [Source](https://github.com/frarthur/no-insta) · [APK releases](https://github.com/frarthur/no-insta/releases)
 
-➡️ _Add repository or website_
+### 🌬️ PWM Ventilo Noctua
 
----
+ESP32 controller for a Noctua 4-pin fan (25 kHz PWM): manual mode via potentiometer or auto mode following the PC's CPU temperature, with an embedded web interface (live RPM, 30 min history, editable fan curve).
 
-## 🚫 NoAds
+**Stack:** ESP32 · C++ · PlatformIO · Web UI
 
-A lightweight web application focused on improving the browsing experience.
+<img src="https://raw.githubusercontent.com/frarthur/PWM-ventilo-Noctua/main/docs/webui.png" width="480" alt="Web interface"/>
 
-**Stack**
-
-- Next.js
-- TypeScript
-- Supabase
-
-➡️ _Add repository_
+🔗 [Source](https://github.com/frarthur/PWM-ventilo-Noctua)
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## Frameworks
+### Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## Backend & Cloud
+### Backend & Cloud
 
-- Node.js
-- REST APIs
-- Supabase
-- Docker
-- GitHub Actions
+`Node.js` · `REST APIs` · `Supabase` · `Docker` · `GitHub Actions`
 
-## Embedded
+### Embedded
 
-- ESP32
-- ESP8266
-- Raspberry Pi
-- Arduino
-- Home Assistant
+`ESP32` · `ESP8266` · `Raspberry Pi` · `Arduino` · `Home Assistant`
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
 <img src="./profile/stats.svg" height="165"/>
-
 <img src="./profile/top-langs.svg" height="165"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=frarthur&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-<h3>🕹️ Arcade</h3>
+### 🕹️ Arcade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frarthur/frarthur/pacman-output/galaga-contribution-graph-dark.svg">
@@ -169,21 +141,21 @@ A lightweight web application focused on improving the browsing experience.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://trophy.ryglcloud.net/?username=frarthur&theme=onedark&row=1"/>
+<img src="https://trophy.ryglcloud.net/?username=frarthur&theme=onedark&row=1" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-# 👀 Visitor Count
+## 👀 Visitor Count
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=frarthur&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=frarthur&style=for-the-badge" alt="Visitor count"/>
 
 </div>
 
