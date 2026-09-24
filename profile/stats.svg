@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Arthur Fresse&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 218, Total PRs: 12, Total Issues: 2, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 218, Total PRs: 13, Total Issues: 2, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 218.34540535442244;
+        stroke-dashoffset: 217.6129497543832;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >12</text>
+      >13</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >3</text>
+      >4</text>
     </g>
   </g>
     </svg>
